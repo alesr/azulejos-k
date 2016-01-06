@@ -1,0 +1,12 @@
+{
+  "name": "motion-k",
+  "version": "1.0.0",
+  "description": "a motion k application using electron framework",
+  "main": "electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "alessandro.resta@nuvemk.com",
+  "license": "ISC"
+}
